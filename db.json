@@ -1,0 +1,42 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "name": "Resident Evil 6",
+      "generId": "1",
+      "size": "28GB"
+    },
+    {
+      "id": "2",
+      "name": "God of War",
+      "generId": "2",
+      "size": "128GB"
+    },
+    {
+      "id": "3",
+      "name": "Halo CE",
+      "generId": "3",
+      "size": "2GB"
+    },
+    {
+      "id": "4",
+      "name": "Assasins Cred 3",
+      "generId": "3",
+      "size": "38GB"
+    }
+  ],
+  "gener": [
+    {
+      "id": "1",
+      "generName": "Survival Horror"
+    },
+    {
+      "id": "2",
+      "generName": "Action"
+    },
+    {
+      "id": "3",
+      "generName": "Adventure"
+    }
+  ]
+}
